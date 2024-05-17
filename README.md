@@ -35,3 +35,6 @@ In the project, I fetch data from:
     <li>email</li>
     <li>datetime</li>
 </ul>
+
+<img src="https://github.com/ro-dricks/Tickers/blob/master/Stock_Dashboard/images/dashboard.PNG">
+<p>Take a look at more of images of the dashboard here: <a href="https://github.com/ro-dricks/Tickers/tree/master/Stock_Dashboard/images">Images</a></p>
