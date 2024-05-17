@@ -8,5 +8,4 @@ seaborn==0.13.2
 stocknews==0.9.11
 streamlit==1.33.0
 yfinance==0.2.38
-email
-smtplib
+emails==0.6
