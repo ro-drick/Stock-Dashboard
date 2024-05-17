@@ -9,4 +9,3 @@ stocknews==0.9.11
 streamlit==1.33.0
 yfinance==0.2.38
 emails==0.6
-secure-smtplib==0.1.0
